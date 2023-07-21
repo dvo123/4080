@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfficeHourService", "OfficeHourService\OfficeHourService.csproj", "{FC45E0D5-66D9-4C29-B39D-0EA9451D0252}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC45E0D5-66D9-4C29-B39D-0EA9451D0252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC45E0D5-66D9-4C29-B39D-0EA9451D0252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC45E0D5-66D9-4C29-B39D-0EA9451D0252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC45E0D5-66D9-4C29-B39D-0EA9451D0252}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE86C1FC-CDC8-4752-9365-A61ED5B3766F}
+	EndGlobalSection
+EndGlobal
