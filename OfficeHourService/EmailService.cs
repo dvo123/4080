@@ -1,7 +1,7 @@
 ﻿using sib_api_v3_sdk.Api;
 using sib_api_v3_sdk.Model;
 using sib_api_v3_sdk.Client;
-
+/
 namespace OfficeHourService
 {
     public class EmailService
