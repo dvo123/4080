@@ -6,7 +6,7 @@ namespace OfficeHourService
 {
     public class EmailService
     {
-        private static readonly string API_KEY = "The Actual Enter API Key Here";
+        private static readonly string API_KEY = "Enter API Key Here";
         private static readonly string SENDER_EMAIL = "ru.vo147@gmail.com";
         private static readonly string SENDER_NAME = "officehourplanner@gmail.com";
 
